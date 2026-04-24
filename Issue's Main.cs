@@ -64,10 +64,10 @@ namespace L0LeRModMenu
 
             GUI.color = Color.white;
             GUI.backgroundColor = Color.black;
-            menuRect = GUI.Window(0, menuRect, DrawMenu(int windowID), "<color=white>L0LeR Mod Menu</color>");
+            windowRect = GUI.Window(0, menuRect, DrawMenu windowID, "<color=white>Issue's Hack</color>");
         }
 
-        private void DrawMenu(int windowID)
+        private void DrawMenu(intwindowID)
         {
             GUI.DragWindow(new Rect(0, 0, menuRect.width, 20));
             currentTab = GUILayout.Toolbar(currentTab, tabNames);
