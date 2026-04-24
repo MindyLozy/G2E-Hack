@@ -1,4 +1,15 @@
-<ItemGroup>
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AssemblyName>L0LeRModMenu</AssemblyName>
+    <Description>Mod for Granny Chapter Two Enchanted</Description>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+
+  <ItemGroup>
     <Reference Include="Assembly-CSharp">
         <HintPath>Libs\Assembly-CSharp.dll</HintPath>
     </Reference>
@@ -50,4 +61,6 @@
     <Reference Include="Il2CppInterop.Common">
         <HintPath>Libs\Il2CppInterop.Common.dll</HintPath>
     </Reference>
-</ItemGroup>
+  </ItemGroup>
+
+</Project>
