@@ -1,4 +1,4 @@
-# Issue's Hack by MindyLoozy / L0LeR
+# Babushka-Hack by MindyLoozy / L0LeR
 Mod For Granny : Chapter Two Enchanted
 
 IMPORTANT :
