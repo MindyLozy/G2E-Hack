@@ -5,7 +5,7 @@ using Il2Cpp;
 using System.Reflection;
 using Il2CppInterop.Runtime;
 
-[assembly: MelonInfo(typeof(L0LeRModMenu.Main), "L0LeR's ModMenu", "1.0", "L0LeR")]
+[assembly: MelonInfo(typeof(L0LeRModMenu.Main), "Issue's Hack", "1.05", "MindyLozy")]
 [assembly: MelonGame("Omega Mega Gigal Intel", "Granny 2 Enchanted")]
 
 namespace L0LeRModMenu
